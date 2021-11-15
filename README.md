@@ -1,2 +1,2 @@
 # actpseintarrays
-pseint arrays switch case 
+pseint arrays bucles
